@@ -20,14 +20,13 @@ It allows users to deposit their native token **SOM** once and automatically:
 ---
 
 ## ❓ Problem Insomnia Solves  
-The Somnia ecosystem offers many opportunities to earn airdrop points and yields, but users face challenges:  
+When the Somnia ecosystem offers many opportunities to earn airdrop points and yields, but different types of users face specific challenges:
 
-- **Fragmented Point Systems** – Each protocol has its own point program  
-- **Complex Management** – Manually tracking deposits, withdrawals, and points is time-consuming  
-- **Gas Inefficiency** – Multiple transactions across protocols waste gas  
-- **Missed Opportunities** – Users often fail to optimize allocations due to lack of tools or time  
+New Users → Feel lost when starting; they don’t know which protocols to join or how to safely farm airdrops.
+Airdrop Users → Struggle with fragmented point systems and manual tracking across multiple dApps.
+Busy Users → Want to farm airdrops but lack the time to research, manage deposits, and optimize strategies.
 
-👉 **Insomnia** solves this by unifying the process into a single vault system that manages everything automatically.  
+👉 As a result, many users miss out on rewards, waste time, or give up due to complexity.
 
 ---
 
