@@ -1,4 +1,4 @@
-# 🌙 Insomnia DeFI Protocol  
+# 🌙 Insomnia DeFi Protocol  
 
 > **Deposit once, farm everywhere — maximize your Somnia rewards with Insomnia.**  
 
