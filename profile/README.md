@@ -4,6 +4,13 @@
 
 ---
 
+<img width="3644" height="2248" alt="image" src="https://github.com/user-attachments/assets/2f62a9f6-2888-4b9b-833d-e8e014b74cab" />
+
+<img width="3644" height="2222" alt="image" src="https://github.com/user-attachments/assets/eb714745-9984-4e20-a987-d02021b76b6d" />
+
+
+
+
 ## 📝 What is Insomnia?  
 **Insomnia Protocol** is a DeFi vault system built on the **Somnia Network**.  
 It allows users to deposit their native token **SOM** once and automatically:  
