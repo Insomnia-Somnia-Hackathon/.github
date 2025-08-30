@@ -15,12 +15,13 @@ It allows users to deposit their native token **SOM** once and automatically:
 
 ## ❓ Problem Insomnia Solves  
 The Somnia ecosystem offers many opportunities to earn airdrop points and yields, but users face challenges:  
+
 - **Fragmented Point Systems** – Each protocol has its own point program  
 - **Complex Management** – Manually tracking deposits, withdrawals, and points is time-consuming  
 - **Gas Inefficiency** – Multiple transactions across protocols waste gas  
 - **Missed Opportunities** – Users often fail to optimize allocations due to lack of tools or time  
 
-**Insomnia** solves this by unifying the process into a single vault system that manages everything automatically.  
+👉 **Insomnia** solves this by unifying the process into a single vault system that manages everything automatically.  
 
 ---
 
@@ -40,12 +41,26 @@ The Somnia ecosystem offers many opportunities to earn airdrop points and yields
 ---
 
 ## 🏗️ Architecture  
-*(Coming soon...)*  
+![Architecture](https://github.com/user-attachments/assets/f15ea868-4f54-4bb1-99c3-af0f63166401)  
 
 ---
 
-## 🔄 User Flowchart  
-*(Coming soon...)*  
+## 🔄 Flowcharts  
+
+### Insomnia Vault  
+![Insomnia Vault](https://github.com/user-attachments/assets/9fdd7510-0f14-4d9d-b9f4-4202436a7f45)  
+
+### User Deposit  
+![User Deposit](https://github.com/user-attachments/assets/dddcd477-a624-4079-8a0a-af686339342c)  
+
+### User Withdraw  
+![User Withdraw](https://github.com/user-attachments/assets/a01e9868-9574-441f-ac1d-418a0a41ff61)  
+
+## 🔗 Full Flowchart  
+
+For the complete flowchart, please check the GitBook documentation here:  
+👉 [Full Flowchart on GitBook](https://bimajdiva.gitbook.io/insomnia)
+
 
 ---
 
