@@ -65,7 +65,7 @@ For the complete flowchart, please check the GitBook documentation here:
 ---
 
 ## 🌍 Live Demo  
-👉 [http://insomnia.netlify.app/](http://insomnia.netlify.app/)  
+👉 [http://insomniafi.netlify.app/](http://insomniafi.netlify.app/)  
 
 ---
 
